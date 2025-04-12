@@ -1,1 +1,3 @@
 # F1_pitstop_number_prediction
+
+This repository contains my work for CS982: Big Data Technologies project. The project required us to apply one algorithm for supervised and one for unsupervised problem of our choosing. For supervised problem, I have decided to build a Decision Tree model for predicting the number of pitstops a driver will do in a race given track characteristic, initial weather conditions, his starting position and his starting tire choice. In the unsupervised part of the project, hierarchical clustering was used to find the most similar drivers based on different characteristics (not based on points scored).
